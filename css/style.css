@@ -1,0 +1,83 @@
+.generalClass{
+padding:10px 0;
+font-family: 'Montserrat', sans-serif;
+background-color: #c6cbef;
+}
+
+.generalClass p span{
+  font-size: 35px;
+  font-style:italic;
+  font-weight: bold;
+
+}
+
+section {
+  background-color: #c6cbef;
+}
+
+
+.page-header{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+font-size: 20px;
+color : black;
+
+}
+.mine{
+  background-color: #494ca2;
+}
+
+.navbar-brand{
+  font-weight: bold;
+  font-family: 'Lobster', cursive;
+  font-size: 1.5em;
+}
+
+.jumbotron{
+  margin-bottom: 0;
+  padding-top: 100px;
+  display:flex;
+  text-align: center;
+  background-image:linear-gradient(#8186d5,#c6cbef);
+  font-family: 'Dancing Script', cursive;
+
+}
+
+.wunmi h1 {
+  font-size: 4em;
+
+}
+.nav-item a{
+  font-family:'Cinzel', serif;
+  font-size: 20px;
+}
+
+.description p{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.base{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.soc {
+  display:flex;
+  justify-content: space-between;
+}
+
+.soc li{
+  list-style: none;
+}
+
+.soc li a{
+  text-decoration: none;
+  font-size: 20px;
+}
+
+footer{
+  background-color: #e3e7f1;
+  padding:10px 0;
+}
